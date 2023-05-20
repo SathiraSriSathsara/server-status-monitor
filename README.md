@@ -49,7 +49,7 @@ Before running the application, make sure you have the following installed:
 
 ## License
 
-This project is licensed under the <a href="#">MIT License.</a>
+This project is licensed under the <a href="https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt">MIT License.</a>
 
 
 <br>
