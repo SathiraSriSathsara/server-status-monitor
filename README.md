@@ -52,5 +52,11 @@ Before running the application, make sure you have the following installed:
 This project is licensed under the <a href="#">MIT License.</a>
 
 
+<br>
+
+<div align="center">
+	<img src="https://github.com/SathiraSriSathsara/SathiraSriSathsara/blob/main/icon.png" width="40">
+	<h4>Sathira Sri Sathsara @ 2023</h4>
+</div>	
 
 
